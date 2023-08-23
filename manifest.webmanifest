@@ -1,0 +1,12 @@
+{
+  "name": "MASA",
+  "short_name": "MASA",
+  "id": "www.MASA.AQWISE",
+  "description": "MASA is a puzzle game where the objective is focusing for kindergarten to gain knowledge while playing game",
+  "orientation": "portrait",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
